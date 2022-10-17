@@ -1,3 +1,3 @@
 # MTP-1
 
-Induced Polarization
+Induced Polarization Project
